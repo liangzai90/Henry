@@ -1,4 +1,4 @@
-[![Henry's github stats](https://github-readme-stats.vercel.app/api?username=liangzai90&show_icons=true&hide=contribs&theme=radical)](https://github.com/liangzai90)
+[![Henry's github stats](https://github-readme-stats.vercel.app/api?username=liangzai90&show_icons=true&hide=contribs&theme=radical&line_height=24.0)](https://github.com/liangzai90)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangzai90&theme=aura&layout=compact&card_width=360)](https://github.com/liangzai90)
 
 
